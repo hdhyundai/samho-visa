@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60">
+  <defs>
+    <linearGradient id="hdBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#002C6C" />
+      <stop offset="100%" stop-color="#0066B3" />
+    </linearGradient>
+    <linearGradient id="hdGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00A859" />
+      <stop offset="100%" stop-color="#78BE20" />
+    </linearGradient>
+  </defs>
+  <!-- HD Hyundai Symbol Geometry -->
+  <polygon points="12,10 28,10 18,30 2,30" fill="url(#hdGreen)" />
+  <polygon points="32,10 48,10 38,30 22,30" fill="url(#hdBlue)" />
+  <polygon points="8,34 24,34 14,54 -2,54" fill="url(#hdBlue)" opacity="0.85" />
+  <polygon points="28,34 44,34 34,54 18,54" fill="url(#hdGreen)" />
+  
+  <!-- Text Brand -->
+  <text x="60" y="38" font-family="'Plus Jakarta Sans', 'Pretendard', sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" letter-spacing="-0.5">HD현대삼호</text>
+</svg>
